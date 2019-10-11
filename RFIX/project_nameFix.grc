@@ -11,11 +11,10 @@
 #include "MDIDs_APICD.h"
 'MDID' 32500 "Add-On Identifier" {
 
-	//Author Developer ID:
-	//625305189 /*CGilmer*/
-	709314381 /*CFranklin*/
+	//9-digit Author Developer ID:
+	xxxxxxxxx
 
 	//Generate this using 'Support\Tools\Win\AddOn Management\AddOnAdmin.exe'
-	//Addon Local ID:
-	1589914788
+	//10-digit Addon Local ID:
+	yyyyyyyyyy
 }

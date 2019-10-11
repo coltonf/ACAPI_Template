@@ -1,5 +1,5 @@
 ﻿/* *****************************************************************************
-// Localizable resource description for the Project_Name Add-On
+// Localizable resource description for the project_name Add-On
 // API Development Kit 22; Mac/Win
 //
 // Namespaces:			Contact person:
@@ -18,7 +18,7 @@
 	-- same as the name of the folder without underscore(s) */
 
 'STR#' 32500 "Strings for the Menu" {
-/* [   ] */		"project_name"
+/* [   ] */		"JHP"
 /* [  1] */			"Example Dropdown..."
 }
 

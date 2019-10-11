@@ -1,5 +1,5 @@
 ﻿// *****************************************************************************
-// Source code for the Project_Name Add-On
+// Source code for the project_name Add-On
 // API Development Kit 22; Mac/Win
 //
 // Namespaces:			Contact person:
@@ -8,7 +8,7 @@
 // [SG compatible] - Yes
 // *****************************************************************************
 
-#include "APIEnvir.h"
+#include 	"APIEnvir.h"
 
 // ---------------------------------- Includes ---------------------------------
 
